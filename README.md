@@ -38,7 +38,7 @@ Manual testing documentation, test cases, and bug reports are maintained in a de
 
 Automation testing for this project is available and maintained in a separate repository:
 
-- [Sumanvi Project Management Tool - Automation Testing](https://github.com/Mohammed-SumairKhan/imejob_automation_suite)
+- [Sumanvi Project Management Tool - Automation Testing](https://github.com/Mohammed-SumairKhan/Sumanvi-Project-Management-Tool)
 
 Find detailed automation scripts, test suites, and CI/CD integration in the above repository.
 
