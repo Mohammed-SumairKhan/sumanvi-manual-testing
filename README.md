@@ -69,13 +69,9 @@ To get started with the Sumanvi Project Management Tool:
 ```
 Sumanvi-Project-Management-Tool/
 ├── src/
-│   └── [Source code files]
-├── docs/
-│   └── [Documentation]
-├── tests/
-│   └── [Unit and integration tests]
+│   └── files(xslx and pdf) 
 ├── README.md
-└── package.json
+
 ```
 
 ## Contributing
@@ -103,4 +99,4 @@ For questions, suggestions, or bug reports, please open an issue or contact via 
 
 ---
 
-**Happy Testing!**
+**Happy Testingg!**
